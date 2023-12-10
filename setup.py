@@ -14,20 +14,20 @@ plugin_package = "octoprint_bgcode"
 plugin_name = "BGCode"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.2.0"
+plugin_version = "0.2.1"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
 plugin_description = """Adds bgcode support provided in PrusaSlicer version 2.7.0+"""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "jneilliii"
+plugin_author = "kdobrev"
 
 # The plugin's author's mail address.
-plugin_author_email = "jneilliii+github@gmail.com"
+plugin_author_email = "kdobrev+github@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/jneilliii/OctoPrint-BGCode"
+plugin_url = "https://github.com/kdobrev/OctoPrint-BGCode"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
