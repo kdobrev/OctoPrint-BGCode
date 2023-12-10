@@ -22,7 +22,7 @@ Download and run the exe accepting all defaults
 
 Install manually using this URL:
 
-    https://github.com/jneilliii/OctoPrint-BGCode/archive/master.zip
+    https://github.com/kdobrev/OctoPrint-BGCode/archive/master.zip
 
 ## TODO
 
